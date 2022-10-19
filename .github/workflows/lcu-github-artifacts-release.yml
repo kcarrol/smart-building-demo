@@ -1,4 +1,4 @@
-name: kcarrol/smart-building-demo
+name: kcarrol/habistack-real-time-charts
 
 on:
   push:
